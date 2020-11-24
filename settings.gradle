@@ -1,2 +1,4 @@
 include ':app'
+include ':mobilertc'
+include ':commonlib'
 rootProject.name = "ZoomKotlinDemo"

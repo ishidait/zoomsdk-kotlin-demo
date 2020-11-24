@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">ZoomKotlinDemo</string>
+    <string name="app_name">Zoom SDK Kotlin Demo</string>
+
+    <string name="initializing">初期化中です...</string>
+    <string name="initialize_err">初期化に失敗しました。</string>
+    <string name="initialize_done">初期化が完了しました。</string>
+    <string name="join_meeting">ミーティングに参加</string>
+
+    <string name="mtg_number">ミーティングNo</string>
+    <string name="mtg_password">ミーティングパスワード</string>
+    <string name="mtg_displayName">表示名</string>
 </resources>

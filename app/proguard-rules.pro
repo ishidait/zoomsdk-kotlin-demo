@@ -19,3 +19,12 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+
+-keep class  us.zoom.**{*;}
+-keep class  com.zipow.**{*;}
+-keep class  us.zipow.**{*;}
+-keep class  org.webrtc.**{*;}
+-keep class  us.google.protobuf.**{*;}
+
+
