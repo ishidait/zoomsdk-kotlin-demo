@@ -2,7 +2,7 @@
 
 An example app using Zoom SDK for Android and Kotlin
 
-# BEFORE RUNNING THIS EXAMPLE, CONFIGURE YOUR APP KEY AND SECRET
+# Before running this example, configure your App Key and App Secret.
 
 Copy
 
