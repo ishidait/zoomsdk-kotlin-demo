@@ -12,6 +12,6 @@ to
 
 > app/src/main/res/values/secrets.xml
 
-, then edit the file and put your keys.
+, then edit the file and put your keys obtained from the following screen.
 
 <img src="https://github.com/ishidait/zoomsdk-kotlin-demo/blob/main/Screenshot_ZoomSDK.png" alt="Screenshot_ZoomSDK.png" width="400" />
